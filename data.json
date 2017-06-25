@@ -1,0 +1,175 @@
+[
+   {
+      "name": "Ankommen",
+      "tags": ["Inclusion", "Integration", "Employment"],      
+      "url": "https://www.ankommenapp.de",      
+      "presentation": "https://www.youtube.com/watch?v=Q-Vg5UXe8_g",      
+      "description": "The platform is the digital home for migrant women offering everything they need to create their social and professional future in Germany",      
+      "email": "internetredaktion@bamf.bund.de",      
+      "connection": "Techfugees Slack",      
+      "status": "live"
+   },
+   {
+      "name": "Companion App",
+      "tags": ["Safety"],      
+      "url": "http://www.companionapp.io/",      
+      "presentation": "https://www.youtube.com/watch?v=guHZpt-PdKs",      
+      "description": "The App enables users to request a friend or family member to keep them company virtually and track their journey home via GPS on an online map. Companion lets you reach out to family, friends, or your public safety department to have them keep an eye on you as you travel late at night.",      
+      "email": "founders@companionapp.ioi",      
+      "connection": "TF Hackpad",      
+      "status": "live"
+   },
+   {
+     "name": "Circle of Six",
+      "tags": ["Safety"],      
+      "url": "http://www.circleof6app.com/",      
+      "presentation": "https://www.youtube.com/watch?v=Q-Vg5UXe8_g",      
+      "description": "A free app that prevents violence before it happens. Circle of 6 allows you to send a \"come and get me\" message- with a map using GPS to show your precise location to six of your friends when you’re in a state of emergency",      
+      "email": "media@circleof6app.com",      
+      "connection": "TF Hackpad",      
+      "status": "live"
+   },
+   {
+      "name": " 2♥ Heart to Heart",
+      "tags": ["Healthcare", "Integration", "Interpreter"],      
+      "url": "https://projects.invisionapp.com/share/ET8YRZYMX#/screens?",      
+      "presentation": "https://www.youtube.com/watch?v=Q-Vg5UXe8_g",      
+      "description": "In 2015, 30000 people entered Norway seeking political asylum, of which two-thirds were women and children, who often speak little English nor Norwegian but have access to smart phones. ♥2♥ is a personal assistant and listening ear that helps asylum seeking pregnant refugee women in Norway understand their medical rights in their own language, and helps them to get access to medical services, including a doctor and a midwife. The project gives pregnant refugee women faster and easier access to the healthcare they seek, and alleviates pressure on existing healthcare services and refugee camps in Norway. This is done by using machine learning technologies to provide real-time translations, to automate responses to common challenges, and to simplify interactions with existing medical services in a culturally context sensitive manner",      
+      "email": "laila@utstudentbyra.no",      
+      "connection": "TF Hackathon in Oslo",      
+      "status": "in progress"
+   },
+ {
+      "name": "HarassMap",
+      "tags": ["Safety"],      
+      "url": "http://harassmap.org/en/",      
+      "presentation": "https://www.youtube.com/user/HarassMapEgypt",      
+      "description": "HarassMap is a tool allowing those assaulted or harassed in Egypt to anonymously report their experiences. The developers hope that providing a view of the reality and scope of sexual harassment and sexual assault in Egypt will help to end its social acceptability",      
+      "email": "info@harassmap.org",      
+      "connection": " TF Hackpad",      
+      "status": "live"
+   },
+   {
+      "name": "HaBaby",
+      "tags": ["Healthcare"],      
+      "url": "http://www.alessandrocrimi.com/hababy/",      
+      "presentation": "http://empowerhack.io/HerStory-Website/hack-pack.html",      
+      "description": "#HaBaby is an app for pregnant refugees, improving access to health services and providing a tool to communicate with resource-constrained medical professionals. ",
+      "connection": "EmpowerHack LDN",      
+      "email": "me@alessandrocrimi.com",      
+      "connection": "Techfugees Slack",      
+      "status": "live"
+   },
+   {
+      "name": "HerStory",
+      "tags": ["Healthcare", "Mental Health"],      
+      "url": "https://www.tackk.com/HerStory/",      
+      "presentation": "http://empowerhack.io/HerStory-Website/hack-pack.html",      
+      "description": "A storytelling and discussion for refugee women and girls who have experienced GBV (Gender Based Violence) and related dangers. Aiming to use widely available social media and recording services which will ease adoption and distribution, and barriers to use. The platform will be a web page/blog format for the stories and support, with a supporting social media group to direct people to it and encourage participations and heighten visibility. The focus will be on women and girl refugees in the middle east and the languages will be Arabic and English. Via a digital storytelling platform, HerStory enables girl & women refugees to tell their stories safely, empowering & informing others too. This project is in partnership with: Intaliqi and MOAS",      
+      "email": "",        
+      "connection": "EmpowerHack LDN",      
+      "status": "in progress"
+   },
+ {
+      "name": "WeDoCare",
+      "tags": ["Safety", "Maps"],      
+      "url": "https://wedocare.dei.uc.pt/",      
+      "presentation": " https://www.youtube.com/watch?v=H1U3vDbM92E",      
+      "description": "Are you in danger? WeDoCare detects violent attacks and warns nearby citizens that you’re vulnerable. It also shows danger zones and helpful locales on a map.",      
+      "email": "info@dei.uc.pt",      
+      "connection": "EmpowerHack LDN",      
+      "status": "in progress"
+   },
+   {
+      "name": "Find Me in Kakuma",
+      "tags": ["Family Reunification", "Maps"],      
+      "url": "http://theinvisiblecitykakuma.com/APP/about",      
+      "presentation": "https://vimeo.com/163090699",      
+      "description": "An application for tablet & mobile helps to speed up this family reunification process. The FIND ME APP is a grassroots tool that empowers Kakuma’s inhabitants. Implementing the app and spreading it to other refugee camps in the world is one of our change and impact goals",      
+      "contact form": "http://theinvisiblecitykakuma.com/Contact",
+      "email": "",      
+      "connection": "EmpowerHack LDN",      
+      "status": "development / test running / 1 child found"
+   },
+   {
+      "name": "Safegees",
+      "tags": ["Family Reunification", "Maps"],      
+      "url": "http://www.safegees.org/",      
+      "Google play store URL": "https://play.google.com/apps/testing/org.safegees.safegees",      
+      "description": "Safegees provides an app to geolocate your loved ones during migrations, and to allow NGOs to feed refugees with important information",      
+      "email": "info@safegees.org",      
+      "connection": "EmpowerHack LDN",      
+      "status": "live"
+   },
+   {
+      "name": "Soul Medicine",
+      "tags": ["Mental Health", "SMS App"],      
+      "url": "https://www.ankommenapp.de",      
+      "presentation": "https://www.youtube.com/watch?v=Q-Vg5UXe8_g",      
+      "description": "A mental well-being programme designed to reduce loneliness and depression by sending crowdsourced feel-good knowledge courses and quotes",      
+      "email": "",      
+      "connection": "EmpowerHack LDN",      
+      "status": ""
+   },
+ {
+      "name": "VocApp",
+      "tags": ["Education"],      
+      "url": "" ,
+      "description": " Vocapp provides collaborative technical language support for students starting new courses in a second language in Europe and provides a mentoring discussion board to allow Syrian refugee students across Europe to ask questions and share common challenges in transition from learning in Arabic to a second language",      
+      "email": "incubate@empowerhack.com",      
+      "connection": "EmpowerHack LDN",      
+      "status": ""
+   },
+   {
+      "name": "RefuShe",
+      "tags": ["Health Care", "Safety"],      
+      "url": " https://play.google.com/store/apps/details?id=de.upsource.appff&hl=en",      
+      "presentation": "https://www.youtube.com/watch?v=Q-Vg5UXe8_g",      
+      "description": "RefuShe was developed for female refugees on behalf of the federal state of North Rhine-Westphalia. Many women experienced violence in their everyday lives or are threatened by it. A great help is an institution like a women’s refuge or women’s advisory centre. The app informs female refugees about these help centres and informs women about their rights. Furthermore, women get the opportunity to get in contact with these institutions. RefuShe offers the opportunity to contact help centres in North Rhine-Westphalia directly. In order to find suitable help, you can screen the respective institutions according to location and specialisation",      
+      "email": " poststelle@mgepa.nrw.de",      
+      "connection": "Techfugees Slack",  
+      "status": "live"
+   },
+   {
+      "name": "RefAid/Refugee Aid App",
+      "tags": ["Services", "Health Care"],
+      "creator": "Trellyz ",
+      "url": " https://play.google.com/store/apps/details?id=com.digitalfanclubs.refaid&hl=en",      
+      "presentation": "https://www.mgepa.nrw.de/",      
+      "description": "This app is specifically for migrants and refugees. It shows the location of and types of aid available on a map, with information about the opening days and hours. Aid is categorized by speicifc groups, including women and children",      
+      "email": " info@refugeeaidapp.com",      
+      "connection": "M GEPA",      
+      "status": "live"
+   },
+   {
+      "name": "RiskAhead-Map of Violence",
+      "tags": ["Safety", "Gender Based Violence"],
+      "creator": "",       
+      "url": "https://play.google.com/store/apps/details?id=org.deke.risk.riskahead&hl=de",      
+      "presentation": " https://www.riskahead.net/",      
+      "description": "Started as a two man project, RiskAhead is a community-based map developed to prevent the suffering by giving users the opportunity to view Crime maps showing areas of danger around the globe at any time for free. This allows users to avoid threats and dangerous areas, and report any incidences they come across. Available in multiple languages, this tool is especially helpful for women at night",      
+      "email": "",      
+      "connection": "",      
+      "status": "live"
+   },
+   {
+      "name": "Guarderly",
+      "tags": ["Safety", "Maps"],      
+      "url": "",       
+      "presentation": " https://www.guardly.com/",      
+      "description": "Guardly is a personal safety service that instantly connects you with your safety network and authorities in an emergency. This app differs from others in that it places a phone call to your contacts with your name, exact location, the type of emergency",      
+      "email": "",      
+      "connection": "",      
+      "status": "live"
+   },
+   {
+      "name": "Hand Help",
+      "tags": ["Safety", "Gender Based Violence", "Maps"],      
+      "url": "https://play.google.com/store/apps/details?id=de.asnug.handhelp&hl=de",      
+      "presentation": "https://www.youtube.com/watch?v=H1U3vDbM92E ",     
+      "description": "the platform is the digital home for migrant women offering everything they need to create their social and professional future in Germany",      
+      "email": "info@app-sec.de",      
+      "connection": "",      
+      "status": "live"
+   }
+]
