@@ -219,5 +219,18 @@
     "email": "info@app-sec.de",
     "connection": "",
     "status": "live"
-  }
+  },
+  {
+    "name": "Integreat",
+    "tags": [
+      "Integration",
+      "Maps"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=tuerantuer.app.integreat",
+    "presentation": "https://web.integreat-app.de ",
+    "description": "The app supports with addresses, tips and advice regarding usual procedures and next steps. Later it provides up to date and dynamic information on local events and changes in the asylum system for specific cities. Women can use pregnancy preparation advice and find female-specific events offerings. Local differences are a focus point of Integreat. 
+",
+    "email": "info@integreat-app.de",
+    "connection": "GIZ and other partners",
+    "status": "live"  
 ]
