@@ -18,3 +18,14 @@ Append to `data.json` with the following `json` object.
   "status": "live"
 }
 ```
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Deploying to GitHub pages
+
+```bash
+$ ng build --prod --base-href "https://RefuTech4All.github.io/ExistingAppSolutionsForFemaleRefugees/"
+$ ./node_modules/angular-cli-ghpages/bin/angular-cli-ghpages
+```
