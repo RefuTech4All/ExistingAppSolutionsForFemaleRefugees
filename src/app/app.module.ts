@@ -8,10 +8,12 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { CovalentLayoutModule, CovalentStepsModule } from '@covalent/core';
 
 import { AppComponent } from './app.component';
+import { ProjectsComponent } from './projects/projects.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ProjectsComponent
   ],
   imports: [
     BrowserModule,
