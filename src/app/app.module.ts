@@ -5,7 +5,7 @@ import { HttpModule } from '@angular/http';
 
 import { MaterialModule } from '@angular/material';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import { CovalentLayoutModule, CovalentStepsModule } from '@covalent/core';
+import { CovalentLayoutModule, CovalentStepsModule, CovalentDataTableModule, CovalentMessageModule } from '@covalent/core';
 
 import { AppComponent } from './app.component';
 import { ProjectsComponent } from './projects/projects.component';
@@ -22,7 +22,9 @@ import { ProjectsComponent } from './projects/projects.component';
     MaterialModule,
     BrowserAnimationsModule,
     CovalentLayoutModule,
-    CovalentStepsModule
+    CovalentStepsModule,
+    CovalentDataTableModule,
+    CovalentMessageModule
   ],
   providers: [],
   bootstrap: [AppComponent]
